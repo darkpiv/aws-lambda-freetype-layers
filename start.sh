@@ -1,0 +1,1 @@
+docker run -it --name amazon -d amazonlinux:2
